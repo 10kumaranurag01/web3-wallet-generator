@@ -1,6 +1,3 @@
-
----
-
 # Web3 Wallet Generator
 
 This project is a **Simple Web3 Wallet** application that generates seed phrases and creates wallets for Solana and Ethereum. The application allows users to generate a mnemonic seed phrase, derive wallets for Solana and Ethereum, and view the balance of the created wallets.
